@@ -1,0 +1,12 @@
+[
+  {"pairs":"SOON/USDT", "address":"0:a4aed4d993eec39b85608775f63474627cbd5771aa7d9f650d04d8806af15de7"},
+  {"pairs":"SOON/WEVER", "address":"0:71e089d71ed9a03567fb2ae561e67638f448126665eda9bdb19aa3750088732f"},
+  {"pairs":"SOON/BRIDGE", "address":"0:5a7211494acc2c62abad128ece5943fc1e07680a82f46e60217d30334bacbd49"},
+  {"pairs":"WBTC/SOON", "address":"0:1d7d23b3818002a53fa0c7c3154d7344d40ce7b02f8436f9fdf3904ea3fe9fed"},
+  {"pairs":"WETH/SOON", "address":"0:af52ffa5b422d550e800db44b362fd8ad1203795e3f5730f6ef52f7c0f3ec85a"},
+  {"pairs":"SOON/GRE", "address":"0:b05715157b48c3af915c2ad152a7f3978d67bb616d9bf6ad077b66a66b0343df"},
+  {"pairs":"COLA/SOON", "address":"0:fc08245a235393c7d00cf5e87b899ebb7070c303c6768c404bb6657c75f95733"},
+  {"pairs":"BAPBAPA/SOON", "address":"0:a729760c66a7a1326d5c62e357cf5461c70faac5f5dd7f2a019b98c7560047c3"},
+  {"pairs":"QUBE/SOON", "address":"0:08a0d63780bb181898d8983b5cfdddfa1d7e0ff0738342ebb06098af5f990d4e"},
+  {"pairs":"EUPi/SOON", "address":"0:b14b3f9aeed0b173f4b199f36b432dace64313f6520e54776dcbf48e387fcb6e"},
+]
