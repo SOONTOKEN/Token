@@ -10,5 +10,6 @@
   {"pairs":"QUBE/SOON", "address":"0:08a0d63780bb181898d8983b5cfdddfa1d7e0ff0738342ebb06098af5f990d4e"},
   {"pairs":"SOON/DUSA", "address":"0:cd38b9538bd824feb974f6163cd4fecc8dafc27717e470160a807d806fc0273a"},
   {"pairs":"SOON/MOON", "address":"0:cbe95286e00b33447e03af91272354bf603a338d74201de4d14320132b33be49"},
-  {"pairs":"EUPi/SOON", "address":"0:b14b3f9aeed0b173f4b199f36b432dace64313f6520e54776dcbf48e387fcb6e"}
+  {"pairs":"EUPi/SOON", "address":"0:b14b3f9aeed0b173f4b199f36b432dace64313f6520e54776dcbf48e387fcb6e"},
+  {"pairs":"PURR/SOON", "address":"0:efc45e38f852135cac466ba6a0868797ed328a0ae45ac475147ce36394e18e55"}
 ]
